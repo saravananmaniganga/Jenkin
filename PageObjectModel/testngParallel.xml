@@ -4,7 +4,7 @@
   <test name="Test">
     <classes>
       <class name="testcases.TC001_Login"/>
-      <class name="testcases.TC002_Login2"/>
+      <class name="testcases.TC002_LoginNegative"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

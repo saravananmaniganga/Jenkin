@@ -15,7 +15,7 @@ public class TC001_Login extends ProjectWrappers{
 		authors = "Babu";
 		category = "Smoke";
 		browserName = "chrome";
-		dataSheetName = "TC003";	
+		dataSheetName = "TC001";	
 	}
 	
 	@Test(dataProvider="fetchData")
